@@ -1,4 +1,4 @@
-# testing
+ ## Testing ##
 
 > [!IMPORTANT]
 > **Electron 42 and newer**: As of Electron 42, the binary is no longer downloaded automatically during `npm install` ([release notes](https://github.com/electron/electron/releases/tag/v42.0.0)). You must download it explicitly before `add-electron-debug-identity` runs:
